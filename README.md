@@ -1,11 +1,11 @@
 # Hi, I'm gogothegoatt :D
 
-I'm a **Software Engineering student** passionate about building things that blend creativity and technology. Whether it's designing pixel-perfect games, crafting desktop applications, or experimenting with web development, I love turning ideas into reality.
+I'm a **Software Engineering student** passionate about building things that blend creativity and technology. Would love to learn more coding languages like Kotlin and Go.
 
 ## 🛠️ Skills & Tech
 
-- **Languages:** C#, C, Python, Java, JavaScript
-- **Web:** HTML, CSS, JavaScript
+- **Languages:** C#, C, Python, Java, JavaScript, SQL
+- **Web:** HTML, CSS, JavaScript, PHP
 - **Design:** Drawing & digital art
 
 ## 🚀 Goals
@@ -21,6 +21,6 @@ My biggest ambition is to create a **pixel game** from scratch—combining my lo
 
 ## 📂 Projects
 
-Currently, I’m working on improving my existing projects before showcasing any favorites. Stay tuned for updates and new creations!
+Currently, I’m working on improving my existing projects before showcasing any favorites.
 
 ---
