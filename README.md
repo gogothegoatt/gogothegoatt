@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm gogothegoatt :D
 
-<!--
-**gogothegoatt/gogothegoatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** passionate about building things that blend creativity and technology. Whether it's designing pixel-perfect games, crafting desktop applications, or experimenting with web development, I love turning ideas into reality.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, C, Python, Java, JavaScript
+- **Web:** HTML, CSS, JavaScript
+- **Design:** Drawing & digital art
+
+## 🚀 Goals
+
+My biggest ambition is to create a **pixel game** from scratch—combining my love for coding, art, and game design. I’m also keen on making advanced desktop applications and exploring full-stack web development.
+
+## 🎸 Hobbies
+
+- 🎨 Drawing & Designing
+- 💻 Coding cool stuff
+- 🎸 Playing guitar
+- ☕ Big fan of coffee breaks
+
+## 📂 Projects
+
+Currently, I’m working on improving my existing projects before showcasing any favorites. Stay tuned for updates and new creations!
+
+---
